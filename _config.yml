@@ -6,9 +6,9 @@ color:
   saturation: 0.6062033327762038
   rhythmicContrast: 0.8168269759044051
   brandColors:
-    - '#FFFFFF'
-    - '#011246'
-    - '#00AAFF'
-    - '#AAB0BA'
-    - '#7F8EA2'
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
 name: SciFi Alliance
