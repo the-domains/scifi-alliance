@@ -1,4 +1,3 @@
-layout_spectrum: 0.18339335196651518
 typography_spectrum: 0.5290356583427638
 color:
   brandStrength: 0.32102464977651834
@@ -11,4 +10,9 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
+layout_spectrum: 0.18339335196651518
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/76e5b234-a76b-4eb9-85e5-08776ec26f9a.png
 name: SciFi Alliance
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/3b032ae9-22db-4ac1-8197-73299d799e96.jpg
