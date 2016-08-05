@@ -1,16 +1,16 @@
-typography_spectrum: 0.5290356583427638
+typography_spectrum: 0.9512786937411875
 color:
-  brandStrength: 0.32102464977651834
-  lightness: 0.03525160113349557
-  saturation: 0.6062033327762038
-  rhythmicContrast: 0.8168269759044051
+  brandStrength: 0.5633637967985123
+  lightness: 0.5432009184733033
+  saturation: 0.008288730634376407
+  rhythmicContrast: 0.5374280600808561
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-layout_spectrum: 0.18339335196651518
+    - '#FFFFFF'
+    - '#011246'
+    - '#00AAFF'
+    - '#A3A6AE'
+    - '#4B4F64'
+layout_spectrum: 0.03143642214126885
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/76e5b234-a76b-4eb9-85e5-08776ec26f9a.png
 name: SciFi Alliance
