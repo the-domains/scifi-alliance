@@ -1,0 +1,14 @@
+layout_spectrum: 0.18339335196651518
+typography_spectrum: 0.5290356583427638
+color:
+  brandStrength: 0.32102464977651834
+  lightness: 0.03525160113349557
+  saturation: 0.6062033327762038
+  rhythmicContrast: 0.8168269759044051
+  brandColors:
+    - '#FFFFFF'
+    - '#011246'
+    - '#00AAFF'
+    - '#AAB0BA'
+    - '#7F8EA2'
+name: SciFi Alliance
